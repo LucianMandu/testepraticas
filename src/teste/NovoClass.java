@@ -10,5 +10,5 @@ package teste;
  * @author LucianMandu
  */
 public class NovoClass {
-    
+    //sasasasa
 }
